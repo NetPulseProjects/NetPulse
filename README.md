@@ -1,7 +1,7 @@
 # NetPulse
 Projects that will be implemented as part of the project for teaching new languages:
 
-- [ ] Blog (Go + Flutter)
+- [ ] [Blog](https://github.com/NetPulseProjects/Blog) (Go + Flutter)
 - [ ] Sushibar (Java + Angular)
 - [ ] Bulletin Board (Angular + Node.js)
 - [ ] OpenSourceShop (Java + Angular)
