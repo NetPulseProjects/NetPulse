@@ -1,5 +1,5 @@
 # NetPulse
-Projects that will be implemented as part of the project for teaching new languages:
+Projects that will be implemented as part of the project for teaching new languages and libs/frameworks:
 
 - [ ] [Blog](https://github.com/NetPulseProjects/Blog) (Go + Flutter)
 - [ ] Sushibar (Java + Angular)
